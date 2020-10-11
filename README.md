@@ -1,1 +1,2 @@
 # eschoolsnet
+![](idea.gif)
